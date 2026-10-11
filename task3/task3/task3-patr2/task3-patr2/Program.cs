@@ -39,27 +39,24 @@ namespace task3_patr2
                         }
                         break;
                     case 2:
-                        // ===== 3. البحث عن طالب =====
+                        
                         Console.Write("Enter student name to search: ");
                         string searchName = Console.ReadLine();
 
                         bool found = false;
                         int index = 0;
-
-                        // while للبحث في المصفوفة
                         while (index < students.Length)
                         {
-                            // المقارنة مع تجاهل حالة الأحرف
+                            
                             if (students[index].ToLower() == searchName.ToLower())
                             {
                                 Console.WriteLine("Student Found!");
                                 found = true;
-                                break;  // إيقاف الحلقة عند العثور على الطالب
+                                break;  
                             }
                             index++;
                         }
 
-                        // إذا لم يتم العثور على الطالب
                         if (!found)
                         {
                             Console.WriteLine("Student Not Found.");
@@ -67,7 +64,6 @@ namespace task3_patr2
                         break;
 
                     case 3:
-                        // ===== 4. التحقق من نتيجة الطالب =====
                         Console.Write("Enter student grade: ");
                         int gradeInput = int.Parse(Console.ReadLine());
 
@@ -94,7 +90,7 @@ namespace task3_patr2
                         break;
                 }
 
-            } while (choice != 4);  // استمرار القائمة حتى يختار المستخدم 4
+            } while (choice != 4);  
 
             Console.ReadKey();
         }
