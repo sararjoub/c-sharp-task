@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\c-sharp-task\\Task5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52575B11-F103-4181-9E8C-608FD6EB9880}|Task5\\Task5.csproj|c:\\users\\user\\desktop\\c-sharp-task\\task5\\task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52575B11-F103-4181-9E8C-608FD6EB9880}|Task5\\Task5.csproj|solutionrelative:task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52575B11-F103-4181-9E8C-608FD6EB9880}|Task5\\Task5.csproj|c:\\users\\user\\desktop\\c-sharp-task\\task5\\task5\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52575B11-F103-4181-9E8C-608FD6EB9880}|Task5\\Task5.csproj|solutionrelative:task5\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52575B11-F103-4181-9E8C-608FD6EB9880}|Task5\\Task5.csproj|c:\\users\\user\\desktop\\c-sharp-task\\task5\\task5\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52575B11-F103-4181-9E8C-608FD6EB9880}|Task5\\Task5.csproj|solutionrelative:task5\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52575B11-F103-4181-9E8C-608FD6EB9880}|Task5\\Task5.csproj|c:\\users\\user\\desktop\\c-sharp-task\\task5\\task5\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52575B11-F103-4181-9E8C-608FD6EB9880}|Task5\\Task5.csproj|solutionrelative:task5\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52575B11-F103-4181-9E8C-608FD6EB9880}|Task5\\Task5.csproj|c:\\users\\user\\desktop\\c-sharp-task\\task5\\task5\\schoolreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52575B11-F103-4181-9E8C-608FD6EB9880}|Task5\\Task5.csproj|solutionrelative:task5\\schoolreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SchoolReport.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\c-sharp-task\\Task5\\Task5\\SchoolReport.cs",
+              "RelativeDocumentMoniker": "Task5\\SchoolReport.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\c-sharp-task\\Task5\\Task5\\SchoolReport.cs",
+              "RelativeToolTip": "Task5\\SchoolReport.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T12:03:06.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\c-sharp-task\\Task5\\Task5\\Teacher.cs",
+              "RelativeDocumentMoniker": "Task5\\Teacher.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\c-sharp-task\\Task5\\Task5\\Teacher.cs",
+              "RelativeToolTip": "Task5\\Teacher.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T11:42:38.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\c-sharp-task\\Task5\\Task5\\Student.cs",
+              "RelativeDocumentMoniker": "Task5\\Student.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\c-sharp-task\\Task5\\Task5\\Student.cs",
+              "RelativeToolTip": "Task5\\Student.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T11:41:56.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\c-sharp-task\\Task5\\Task5\\Person.cs",
+              "RelativeDocumentMoniker": "Task5\\Person.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\c-sharp-task\\Task5\\Task5\\Person.cs",
+              "RelativeToolTip": "Task5\\Person.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T11:41:26.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\c-sharp-task\\Task5\\Task5\\Program.cs",
+              "RelativeDocumentMoniker": "Task5\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\c-sharp-task\\Task5\\Task5\\Program.cs",
+              "RelativeToolTip": "Task5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T11:41:01.315Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
